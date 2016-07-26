@@ -49,7 +49,7 @@
       </props>
       -->
       <map>
-        <entry key="GUITAR" value="STRUM STRUM STRUM" />
+        <entry key="GUITAR" value="STRUM STRUM STRUM-------" />
       </map>
     </property>
   </bean>
